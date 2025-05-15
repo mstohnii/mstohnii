@@ -52,10 +52,6 @@
   </a>
   <a href="https://www.youtube.com/@makushima1" target="_blank">
     <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="57" height="45" alt="youtube logo"  />
-  </a>
-  <a href="https://t.me/StPovir" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/telegram/default.svg" width="57" height="45" alt="telegram logo"  />
-  </a>
 </div>
 
 ###
