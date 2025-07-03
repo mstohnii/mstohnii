@@ -55,9 +55,3 @@
 </div>
 
 ###
-
-<div align="center">
-  <img height="200" src="https://media.licdn.com/dms/image/v2/D4D16AQEu1JFtUErTsw/profile-displaybackgroundimage-shrink_350_1400/B4DZZttNwyG0AY-/0/1745597292598?e=1750896000&v=beta&t=FU6-nDcTHaB98CxqZY9_ODgScpuuLn4oW9MsGJCxjFQ"  />
-</div>
-
-###
